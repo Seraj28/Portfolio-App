@@ -23,4 +23,10 @@ It showcases my skills, projects, and experience as a web developer.
 
 ---
 
-## 📂 Folder Structure
+## 📬 Connect with me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-s-14aa3127a/)  
+- 📧 Gmail: **seraj232855@gmail.com**  
+
+---
+
+✨ Made with ❤️ by **Md Seraj** 
